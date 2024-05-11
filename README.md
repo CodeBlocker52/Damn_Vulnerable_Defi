@@ -7,3 +7,6 @@ There’s a tokenized vault with a million DVT tokens deposited. It’s offering
 To pass the challenge, make the vault stop offering flash loans.
 
 You start with 10 DVT tokens in balance.
+
+## Solution :
+test/unstoppable/unstoppable.challenge.js
