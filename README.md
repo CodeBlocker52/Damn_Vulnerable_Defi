@@ -1,15 +1,9 @@
-![](cover.png)
+# Completed the first CTF : Unstoppable.
 
-**A set of challenges to learn offensive security of smart contracts in Ethereum.**
+# Challenge
+Challenge #1 - Unstoppable
+There’s a tokenized vault with a million DVT tokens deposited. It’s offering flash loans for free, until the grace period ends.
 
-Featuring flash loans, price oracles, governance, NFTs, lending pools, smart contract wallets, timelocks, and more!
+To pass the challenge, make the vault stop offering flash loans.
 
-## Play
-
-Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
-
-## Disclaimer
-
-All Solidity code, practices and patterns in this repository are DAMN VULNERABLE and for educational purposes only.
-
-DO NOT USE IN PRODUCTION.
+You start with 10 DVT tokens in balance.
